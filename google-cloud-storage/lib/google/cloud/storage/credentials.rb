@@ -43,6 +43,7 @@ module Google
         PATH_ENV_VARS = %w[STORAGE_CREDENTIALS
                            STORAGE_KEYFILE
                            GOOGLE_CLOUD_CREDENTIALS
+                           GOOGLE_APPLICATION_CREDENTIALS
                            GOOGLE_CLOUD_KEYFILE
                            GCLOUD_KEYFILE].freeze
         JSON_ENV_VARS = %w[STORAGE_CREDENTIALS_JSON
