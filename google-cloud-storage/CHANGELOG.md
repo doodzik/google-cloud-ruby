@@ -1,5 +1,13 @@
 # Release History
 
+### 1.29.1 / 2020-10-02
+
+#### Documentation
+
+* Update Bucket#default_kms_key= docs
+  * Demonstrate deleting the Cloud KMS encryption key
+* Update customer-supplied encryption key docs and examples ([#7851](https://www.github.com/googleapis/google-cloud-ruby/issues/7851))
+
 ### 1.29.0 / 2020-09-22
 
 #### Features
